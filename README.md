@@ -1,25 +1,16 @@
 <img src="https://github.com/JoshuaThadi/Projects/blob/main/assets/projects.png">
 
-<h3>Full Stack Projects</h3>
+<h3>Web App Projects</h3>
 
-<details>
-  <summary>projects1 - details</summary>
+1] <a href="https://github.com/Jostar-Foundation/ZenthCare" target="_blank">ZenthCare: Smart Healthcare Ecosystem</a><br>
+2] <a href="https://github.com/Jostar-Foundation/ByteBrief" target="_blank">ByteBrief: AI news summarized Google Chrome extension</a>
 
-   <h3 align="center"> 🌟 full stack development</h3>
-  
-</details>
 
 ---
 
 <h3>Mobile App Projects</h3>
 
-
-<details>
-  <summary>projects1 - details</summary>
-
-   <h3 align="center"> 🌟 mobile app development</h3>
-  
-</details>
+Comming Soon
 
 
 ---
