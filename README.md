@@ -6,7 +6,7 @@
 1] <a href="https://github.com/Jostar-Foundation/ZenthCare" target="_blank"><strong>ZenthCare -</strong> Smart Healthcare Ecosystem.</a><br>
 2] <a href="https://github.com/Jostar-Foundation/ByteBrief" target="_blank"><strong>ByteBrief -</strong> AI news summarized Google Chrome extension.</a><br>
 3] <a href="https://github.com/Jostar-Foundation/CodeRaider" target="_blank"><strong>CodeRaider -</strong> AI-powered code reviewer and code fixer.</a><br>
-4] <a href="https://github.com/JoshuaThadi/Computer-Science/tree/main/Computer%20Science/Automations-main/WhatsappAuto" target="_blank"><strong>WhatsApp Automation -</strong> Python automated message sending program.</a><br>
+
 
 ---
 
@@ -26,7 +26,7 @@ Comming Soon
 
 <h3>Automation Projects</h3>
 
-0] <a href="https://github.com/JoshuaThadi/Computer-Science/tree/main/Computer%20Science/Automations-main/WhatsappAuto" target="_blank"><strong>WhatsApp Automation -</strong> Python program to send automated messages from the web and computer system .</a><br>
+0] <a href="https://github.com/JoshuaThadi/Computer-Science/tree/main/Computer%20Science/Automations-main/WhatsappAuto" target="_blank"><strong>WhatsApp Automation -</strong> Python program to send automated messages from the web and computer system.</a><br>
 
 ---
 
