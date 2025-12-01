@@ -31,5 +31,5 @@
 ---
 
 <div align="center">
-  ⚠️ This README is uniquely designed by Joshua Thadi. 
+  ⚠️ This README is uniquely designed by <b>@Joshua Thadi.</b> 
 </div>
