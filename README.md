@@ -22,6 +22,7 @@
 
 0] <a href="https://github.com/JoshuaThadi/Artificial-Intelligence" target="_blank"><strong>Artifical Intelligence -</strong> Projects related to AI and its subjects.</a><br>
 1] <a href="https://github.com/JoshuaThadi/Data-Science" target="_blank"><strong>IBM data science -</strong> Projects related to Data science and from IBM assignments.</a><br>
+1] <a href="https://github.com/JoshuaThadi/Data-Science/tree/main/EDA" target="_blank"><strong>EDA -</strong> Projects related to Data Analysis of topic exploratory data analysis.</a><br>
 
 ---
 
