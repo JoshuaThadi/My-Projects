@@ -13,7 +13,7 @@
 
 <h3>Mobile Development Projects</h3>
 
-0] <a href="https://github.com/Jostar-Foundation/BookStore" target="_blank"><strong>BookStore -</strong> A book sharing social media app.</a><br>
+0] <a href="https://github.com/Jostar-Foundation/Bucstock" target="_blank"><strong>Bucstock -</strong> A book storage and free book sharing social media app.</a><br>
 
 
 ---
