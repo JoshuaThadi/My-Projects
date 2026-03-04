@@ -7,7 +7,7 @@
 2] <a href="https://github.com/Jostar-Foundation/ByteBrief" target="_blank"><strong>ByteBrief -</strong> AI news summarized Google Chrome extension.</a><br>
 3] <a href="https://github.com/Jostar-Foundation/CodeRaider" target="_blank"><strong>CodeRaider -</strong> AI-powered code reviewer and code fixer.</a><br>
 4] <a href="https://github.com/Jostar-Foundation/Bashfolio" target="_blank"><strong>Bashfolio -</strong> Terminal website which appears like Bash UI.</a><br>
-
+5] <a href="https://github.com/Jostar-Foundation/Sprintly" target="_blank"><strong>Sprintly -</strong> Agile development and workflow management platform.</a><br>
 
 ---
 
