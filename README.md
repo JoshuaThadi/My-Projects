@@ -36,7 +36,8 @@
 
 0] <a href="https://github.com/JoshuaThadi/Computer-Science/tree/main/programming-projects"><strong>File Organizer -</strong>Python program to organizer files and folders.</a>
 
+---
 
 <div align="center">
-   ⚠️ This README is uniquely designed by <b>@Joshua Thadi.</b> 
+⚠️ This README is uniquely designed by <b>@Joshua Thadi.</b> 
 </div>
